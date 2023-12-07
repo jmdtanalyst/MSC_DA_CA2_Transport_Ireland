@@ -1,14 +1,11 @@
 <<<<<<< HEAD
-# Data analysis project: A comparative study of the transport services in Ireland and Denmark
+# Data analysis project: 
+# Analysing Transportation System in Ireland, Focused on Bike Sharing in Dublin and Comparing to  equivalent service in Barcelona - Spain.
 
 ## Observation
 
-This project focuses on an in-depth analysis of the transport industry in Ireland and Denmark. The goal is to gather insights from key metrics, compare the two countries, and provide evidence-based recommendations for the transportation industry.
+This project focuses on an in-depth analysis of the transport industry in Ireland. The goal is to gather insights from key metrics, compare the two countries, and provide evidence-based recommendations for the transportation industry.
 
-This project will focus on the public transport.
+This project will focus on the BikeShare Service.
 
 
-## List of Information
-=======
-
-Data Analytics Project: Comparative Analysis of Transport Sectors in Ireland and Denmark

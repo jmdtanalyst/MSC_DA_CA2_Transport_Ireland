@@ -1,0 +1,74 @@
+Apply passive voice
+
+
+
+
+Sources:
+
+https://data.gov.ie/dataset/tha25-passenger-journeys-by-public-transport
+
+
+
+
+
+
+Analyse Bike Dublin -  SmartDublin Dublinbikes
+
+
+
+
+
+Stations: 
+https://data.gov.ie/dataset/dublinbikes-api/resource/2dec86ed-76ed-47a3-ae28-646db5c5b965?inner_span=True
+
+Licence: License Creative Commons Attribution 4.0
+https://creativecommons.org/licenses/by/4.0/
+
+ You are free to:
+
+    Share — copy and redistribute the material in any medium or format for any purpose, even commercially.
+    Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+    The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+
+
+
+
+
+API To get real time information:
+
+https://data.smartdublin.ie/dublinbikes-api
+
+Set Licence: MIT
+
+
+
+DUBLIN
+
+
+
+
+As of today, December 5, 2023, there are three bikeshare services operating in Dublin:
+
+    Dublinbikes: This is the oldest and most well-established bikeshare service in Dublin, having been launched in 2009. It is operated by TFI Cycles, a subsidiary of the National Transport Authority (NTA). Dublinbikes has over 3,500 bikes and 450 docking stations located throughout the city center and inner suburbs.
+
+    Bleeper: This is a stationless bikeshare service that was launched in Dublin in 2018. It is operated by Bleeper Bike, a private company. Bleeper bikes can be unlocked and locked using a smartphone app. There are currently over 800 Bleeper bikes available in Dublin.
+
+    Moby: This is an electric bikeshare service that was launched in Dublin in 2023. It is operated by Moby Bikes, a private company. Moby bikes can be unlocked and locked using a smartphone app. There are currently over 300 Moby bikes available in Dublin.
+
+All three bikeshare services are convenient and affordable ways to get around Dublin. Dublinbikes is the most extensive service, with the largest number of bikes and docking stations. Bleeper is a good option for shorter trips, as there are no docking stations to worry about. Moby is a good option for longer trips or for those who want the assistance of an electric bike.
+
+
+
+
+
+
+
+BARCELONA
+    Bicing is the older of the two services, having been launched in 2007. It is operated by Clear Channel and has over 6,000 bikes and 400 docking stations. Bicing is a public service and is intended for short-term journeys of up to 30 minutes.
+    AMBici is a newer service that was launched in 2023. It is operated by Transports Metropolitans de Barcelona (TMB) and has over 2,600 bikes and 236 docking stations. AMBici is an electric bike-sharing service and is also intended for short-term journeys of up to 30 minutes.
+
+Both Bicing and AMbici are convenient and affordable ways to get around Barcelona. However, there are some key differences between the two services. Bicing is a more established service with a wider network of docking stations. AMbici is a newer service with a smaller network of docking stations, but it offers electric bikes.
+
+Ultimately, the best bike-sharing service for you will depend on your individual needs. If you are looking for a convenient and affordable way to get around Barcelona for short-term journeys, then either Bicing or AMbici would be a good option.
+
