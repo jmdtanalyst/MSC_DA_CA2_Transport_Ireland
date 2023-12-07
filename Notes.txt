@@ -1,7 +1,26 @@
+
+
+Statistics?
+work with hyphotesis that people like the bike service
+
+Using ridge regression - prevent the overfit
+
+
 Apply passive voice
 
+create references to the code,  dont put code print on the report
+
+why chose the colors
 
 
+which other charts could use to reach the same goal, and why this one was chosen!
+
+
+use  hyperparam
+
+
+
+Use the apendx and reference section in word 
 
 Sources:
 
