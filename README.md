@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Data analysis project: 
-# Analysing Transportation System in Ireland, Focused on Bike Sharing in Dublin and Comparing to  equivalent service in Barcelona - Spain.
+### Analysing Transportation System in Ireland, Focused on Bike Sharing in Dublin and Comparing to  equivalent service in Washington, D.C.
 
 ## Observation
 
