@@ -1,17 +1,23 @@
-Milestone description,Start,Days
-Understanding the prerequisites,2023-12-06,1
-Research about the scope,2023-12-07,1
-Scope Definition,2023-12-08,1
-1.1 Acquiring raw data:,2023-12-09,1
-1.2 Exploratory Data Analysis (EDA),2023-12-10,5
-2.1 Descriptive statistics,2023-12-15,1
-2.2 Inferential statistics,2023-12-16,3
-2.3 Similarities Dublin vs Washington D.C.,2023-12-19,1
-2.4 Challenges faced,2023-12-20,1
-3.1 Time Series Analysis,2023-12-21,3
-3.2 Sentimental Analysis,2023-12-24,3
-4.1 Programming:,2023-12-27,1
-4.2 Data Structures:,2023-12-28,2
-4.3 Documentation:,2023-12-30,2
-4.4 Testing & Optimisation:,2024-01-01,1
-4.5 Data Manipulation:,2024-01-02,1
+Milestone description,Start,Days,End
+Busines Understanding,2023-12-06,3,2023-12-09
+Understanding the prerequisites,2023-12-06,1,2023-12-07
+Research about the scope,2023-12-07,1,2023-12-08
+Scope Definition,2023-12-08,1,2023-12-09
+1.0 Data  Preparation and Visualization,2023-12-09,6,2023-12-15
+1.1 Acquiring raw data:,2023-12-09,1,2023-12-10
+1.2 Exploratory Data Analysis (EDA),2023-12-10,5,2023-12-15
+2.0 Statistics For Data Analytics,2023-12-15,6,2023-12-21
+2.1 Descriptive statistics,2023-12-15,1,2023-12-16
+2.2 Inferential statistics,2023-12-16,3,2023-12-19
+2.3 Similarities Dublin vs Washington D.C.,2023-12-19,1,2023-12-20
+2.4 Challenges faced,2023-12-20,1,2023-12-21
+Machine Learning for D.A,2023-12-21,8,2023-12-29
+3.1 Time Series Analysis,2023-12-21,4,2023-12-25
+3.2 Sentimental Analysis,2023-12-25,4,2023-12-29
+4.0 Programimg for D.A,2023-12-29,6,2024-01-04
+4.1 Programming:,2023-12-29,1,2023-12-30
+4.2 Data Structures:,2023-12-30,1,2023-12-31
+4.3 Documentation:,2023-12-31,2,2024-01-02
+4.4 Testing & Optimisation:,2024-01-02,1,2024-01-03
+4.5 Data Manipulation:,2024-01-03,1,2024-01-04
+Project Delivery,2024-01-04,1,2024-01-05
